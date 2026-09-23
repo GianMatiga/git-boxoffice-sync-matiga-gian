@@ -5,11 +5,15 @@ function isValidQuantity(quantity) {
 function calculateTicketPrice(quantity, basePrice, premium) {
   let price = quantity * basePrice;
 
+  if (quantity >= 5) {
+    price = price * 0.9;
+  }
+
   if (premium) {
     price = price * 1.5;
   }
 
-  return Math.floor(price);
+  return Math.round(price);
 }
 
 module.exports = { isValidQuantity, calculateTicketPrice };
