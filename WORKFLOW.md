@@ -34,3 +34,6 @@ The main process change I would make is to require contributors to synchronize w
 The rejected pushes happened because a contributor was working from an older version of feature/group-pricing. Clone B had a commit that Clone A's branch did not have, so its push was rejected. Clone C later had the same situation because the remote branch had already moved forward. Clone A experienced it again in Task 6 because it started from an older commit and attempted to push after other changes had already been added remotely.
 
 If the team had a rule such as "fetch and integrate the latest remote changes before starting work", each contributor would have started from the current branch state. They would still potentially encounter conflicts if they edited the same lines, but those conflicts would be handled before attempting the push. This would make the workflow more predictable and prevent the repeated cycle of make changes → push → rejection → fetch → resolve conflict.
+
+Task1
+<img width="1488" height="663" alt="Task1" src="https://github.com/user-attachments/assets/3f7a5ff2-f614-46a1-9f91-d01c1d8608d5" />
