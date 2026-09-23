@@ -37,3 +37,27 @@ If the team had a rule such as "fetch and integrate the latest remote changes be
 
 Task1
 <img width="1488" height="663" alt="Task1" src="https://github.com/user-attachments/assets/3f7a5ff2-f614-46a1-9f91-d01c1d8608d5" />
+
+Task2
+<img width="1345" height="626" alt="Task2" src="https://github.com/user-attachments/assets/f8d90cc9-c3aa-4290-a39c-f7eb13f1cfc0" />
+
+Task3
+<img width="1919" height="1032" alt="Task3" src="https://github.com/user-attachments/assets/355c29f1-7e60-4f41-8899-eefd3cae433b" />
+
+Task4
+<img width="1035" height="340" alt="Task4" src="https://github.com/user-attachments/assets/d144ee64-300a-475c-8747-0b16a1b5d19e" />
+
+Task5
+<img width="1665" height="1000" alt="Task5" src="https://github.com/user-attachments/assets/beb644e9-fbdb-4b34-99bc-0030e7342120" />
+
+Task6
+<img width="1396" height="990" alt="Task6" src="https://github.com/user-attachments/assets/b2b33ee3-dd7a-4010-9c17-624e0ae50f4d" />
+
+Task7
+<img width="1468" height="892" alt="Task7" src="https://github.com/user-attachments/assets/7468a7d6-9b69-474c-92de-553a309ad3fa" />
+
+
+
+
+
+
