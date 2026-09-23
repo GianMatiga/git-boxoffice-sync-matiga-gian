@@ -9,7 +9,7 @@ function calculateTicketPrice(quantity, basePrice) {
     price = price * 0.9;
   }
 
-  return Math.floor(price);
+  return Math.round(price);
 }
 
 module.exports = { isValidQuantity, calculateTicketPrice };
